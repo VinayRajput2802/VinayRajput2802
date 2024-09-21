@@ -1,0 +1,4 @@
+Mohan,2000
+Rohan,12000
+Palak,12000
+Shidarth,12000

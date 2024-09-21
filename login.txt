@@ -1,0 +1,3 @@
+Vinay Rajput,28-02-2004,vinaythakur,123456
+Vinay Rawat,01-01-2000,vinayrawat,147852
+Rohit Sharma,01-01-1988,rohit45,209264208

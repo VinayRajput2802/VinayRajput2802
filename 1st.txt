@@ -1,0 +1,6 @@
+Vinay Rajput,0
+Vinay,1000
+Mohit,1500
+Shivam,0
+Rahul,2400
+Robin Sharma,8500

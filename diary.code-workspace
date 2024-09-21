@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../banking"
+		},
+		{
+			"path": "../Bus"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
